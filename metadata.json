@@ -1,0 +1,6 @@
+{
+  "name": "المنبه الذكي",
+  "description": "تطبيق منبه ذكي واحترافي متطور باللغة العربية مع تحديات الاستيقاظ والتحكم الكامل بالرنين والجدولة الدقيقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
